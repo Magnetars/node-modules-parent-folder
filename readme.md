@@ -1,0 +1,1 @@
+angular-cli gives error message **`You seem to not be depending on "@angular/core" and/or "rxjs". This is an error.`** if node_modules is installed in the parent folder
